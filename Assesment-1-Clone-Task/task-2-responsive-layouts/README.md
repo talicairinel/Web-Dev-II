@@ -2,12 +2,12 @@
 
 Function-component React app built with Vite.
 
-## Run it
-```bash
+## Run it 
+bash
 npm install
-npm run dev      # development server
-npm run build    # production build into /dist
-```
+npm run dev      
+npm run build    
+
 
 ## Structure
 - `index.html` - page shell; imports the Google Fonts (Teko and Lato).
@@ -44,6 +44,9 @@ This is the home page for watch.it movie streaming service created with React fu
 #EEF36A for the logo and "Watch now" buttons, and white for the cards. Headings and buttons use the Teko font family, while Lato  is used everywhere else. The buttons have spacing defined for them and border radius. Text size follows specification for this project (2em for buttons and 1.5em for cards).
 
 
+## Use of AI
+
+I used Gemini AI to help write some code and create this README file. I tested myself the page in several browsers,phone,tablet size and checked it against the wireframe and specification before subbmiting it.
 
 ## References
 Coyier, C. (2013) ‘A complete guide to flexbox’, CSS-Tricks, 8 April. Available at: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ (Accessed: 01 November 2026).
