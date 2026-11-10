@@ -3,11 +3,11 @@
 Function-component React app built with Vite.
 
 ## Run it
-```bash
+bash
 npm install
 npm run dev      # development server
 npm run build    # production build into /dist
-```
+
 
 ## Structure
 - `index.html` - page shell; imports the Google Fonts (Protest Guerrilla and Josefin Sans).
@@ -32,6 +32,13 @@ npm run build    # production build into /dist
 
 ## Description
 This is a one-page blog post for Erased Tapes Records. The page is implemented using React function components and CSS. It consists of a header, an article, an album gallery, an author section, comments and a footer. The text and images are stored in one data file, so the components only render what is passed to them. The page adheres to the written specification: the page, content and footer colours are `#e9e9e9`, white and `#14181d`; the logo and author photo are 200px wide; the social icons are 50px wide with 10px between them; and the standard spacing is 50px. Headings are in Protest Guerrilla at three times the default font size, with a large title. The body text is in Josefin Sans, with a large first paragraph and sufficient line height to make the text readable (W3C, 2023). The design is based on the desktop wireframe and then adapted for tablets and phones using the media queries above, so the page doesn’t scroll horizontally at any width.
+
+
+## Use of AI
+
+I used Gemini AI to help write some of the code and create  this README file. I runned several tests in the browser at diffrent size and checked it against the wireframe and specification.
+
+
 
 
 ## References
