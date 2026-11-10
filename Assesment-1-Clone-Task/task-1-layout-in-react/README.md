@@ -51,14 +51,14 @@ Orozco, S. (no date) Josefin Sans [Typeface]. Available at: https://fonts.google
 
 Pardo, O. (2020) Protest Guerrilla [Typeface]. Available at: https://fonts.google.com/specimen/Protest+Guerrilla (Accessed: 2 November 2026).
 
-React (no date) Passing props to a component. Available at: https://react.dev/learn/passing-props-to-a-component (Accessed: 2 November 2026).
+React (no date) Passing props to a component. Available at: https://react.dev/learn/passing-props-to-a-component (Accessed: 5 November 2026).
 
-Vite (no date) Getting started. Available at: https://vite.dev/guide/ (Accessed: 3 November 2026).
+Vite (no date) Getting started. Available at: https://vite.dev/guide/ (Accessed: 6 November 2026).
 
-W3C (no date) CSS custom properties for cascading variables module level 1. Available at: https://www.w3.org/TR/css-variables-1/ (Accessed: 3 November 2026).
+W3C (no date) CSS custom properties for cascading variables module level 1. Available at: https://www.w3.org/TR/css-variables-1/ (Accessed: 7 November 2026).
 
-W3C (2023) Understanding success criterion 1.4.8: visual presentation. Available at: https://www.w3.org/WAI/WCAG22/Understanding/visual-presentation.html (Accessed: 4 November 2026).
+W3C (2023) Understanding success criterion 1.4.8: visual presentation. Available at: https://www.w3.org/WAI/WCAG22/Understanding/visual-presentation.html (Accessed: 7 November 2026).
 
-W3C (2024) CSS multi-column layout module level 1. Available at: https://www.w3.org/TR/css-multicol-1/ (Accessed: 4 November 2026).
+W3C (2024) CSS multi-column layout module level 1. Available at: https://www.w3.org/TR/css-multicol-1/ (Accessed: 7 November 2026).
 
-web.dev (no date) Learn responsive design. Available at: https://web.dev/learn/design (Accessed: 5 November 2026).
+web.dev (no date) Learn responsive design. Available at: https://web.dev/learn/design (Accessed: 7 November 2026).
