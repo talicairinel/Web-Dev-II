@@ -10,7 +10,7 @@
 /* The text block takes the remaining space and the heading is centred above it */
 .author__text {
   flex: 1 1 0;
-  max-width: 26rem;
+  max-width: 28rem;
 }
 
 .author__text h2 {
