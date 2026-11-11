@@ -73,7 +73,7 @@
   /* --- Featured: wide banner poster, text left, button right --- */
   .movie-card--featured .movie-card__poster {
     aspect-ratio: 3 / 1;
-    object-position: center 25%; /* keep the title in the cropped banner */
+    object-position: center 6%; /* keep the title in the cropped banner */
   }
 
   .movie-card--featured .movie-card__body {
